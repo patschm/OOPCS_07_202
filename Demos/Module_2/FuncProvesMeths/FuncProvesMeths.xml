@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FuncProvesMeths</name>
+    </assembly>
+    <members>
+        <member name="M:FuncProvesMeths.Program.Inits(System.Int32@)">
+            <summary>
+            Initiatliseert ints
+            </summary>
+            <param name="x">Geeft hier uw integer</param>
+        </member>
+    </members>
+</doc>
