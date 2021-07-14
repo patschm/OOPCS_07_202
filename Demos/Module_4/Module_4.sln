@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torens", "Torens\Torens.csproj", "{B2AEDDE1-CA73-4170-8D81-B458431DFF13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Landkaart", "Landkaart\Landkaart.csproj", "{B4A3E43C-5C3E-4163-A717-3C1E0D46F495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AEDDE1-CA73-4170-8D81-B458431DFF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AEDDE1-CA73-4170-8D81-B458431DFF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AEDDE1-CA73-4170-8D81-B458431DFF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AEDDE1-CA73-4170-8D81-B458431DFF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A3E43C-5C3E-4163-A717-3C1E0D46F495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A3E43C-5C3E-4163-A717-3C1E0D46F495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A3E43C-5C3E-4163-A717-3C1E0D46F495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A3E43C-5C3E-4163-A717-3C1E0D46F495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA6459F8-2B7F-465B-B1E9-139C3C992739}
+	EndGlobalSection
+EndGlobal
