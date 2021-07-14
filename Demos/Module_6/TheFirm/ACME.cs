@@ -17,7 +17,7 @@ namespace TheFirm
 
         public void Hire(IContract x)
         {
-            for(int i = 0; i < werknemers.Length; i++)
+            for (int i = 0; i < werknemers.Length; i++)
             {
                 if (werknemers[i] == null)
                 {
@@ -30,7 +30,7 @@ namespace TheFirm
         public void Stoomfluit()
         {
             Console.WriteLine("ACME gaat produceren");
-            foreach(IContract c in werknemers)
+            foreach (IContract c in werknemers)
             {
                 c?.DoeMaarIets();
             }
